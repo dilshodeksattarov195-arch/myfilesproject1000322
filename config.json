@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpersave",
+        "uuid": 2705122,
+        "checksum": "l6ys2u"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
